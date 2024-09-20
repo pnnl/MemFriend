@@ -5,8 +5,7 @@ MemFriend
 =============================================================================
 
 **Home**:
-  - https://github.com/pnnl/memfriend
-  - https://github.com/pnnl/memgaze
+  - https://github.com/pnnl/memfriend (now part of [MemGaze](https://github.com/pnnl/memgaze))
 
   - [Performance Lab for EXtreme Computing and daTa](https://github.com/perflab-exact)
 
