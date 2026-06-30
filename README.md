@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 <!-- -*-Mode: markdown;-*- -->
 <!-- $Id: 6884b97142d1f9b06e7ea2711563ee19e4a6eb0e $ -->
 
